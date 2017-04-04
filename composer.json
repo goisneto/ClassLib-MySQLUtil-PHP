@@ -1,0 +1,7 @@
+{
+    "name": "goisneto/MySQLUtil",
+    "description": "Easy way to make MySQL querys, use PDO with prepare statement and fetch results",
+    "require": {
+        "php": "^7.0"
+    }
+}
