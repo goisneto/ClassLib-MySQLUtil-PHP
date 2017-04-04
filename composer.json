@@ -1,7 +1,17 @@
 {
     "name": "goisneto/mysqlutil",
     "description": "Easy way to make MySQL querys, use PDO with prepare statement and fetch results",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "José Caldas Gois Neto",
+            "email": "goisneto@gmail.com"
+        }
+    ],
     "require": {
         "php": "^7.0"
+    },
+    "autoload": {
+        "psr-0": { "MySQLUtil": "" }
     }
 }
