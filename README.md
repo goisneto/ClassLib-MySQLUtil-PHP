@@ -22,13 +22,13 @@ Instalação
 
 Instalação via Composer
 
-- Alternativamente, é possível utilizar o [Composer] para carregar a biblioteca ([goisneto/MySQLUtil]).
+- Alternativamente, é possível utilizar o [Composer] para carregar a biblioteca ([goisneto/mysqlutil]).
 
 Adicionando a dependência ao seu arquivo ```composer.json```
 ```composer.json
 {
     "require": {
-       "goisneto/MySQLUtil" : "*"
+       "goisneto/mysqlutil" : "*"
     }
 }
 ```
@@ -37,7 +37,7 @@ OU
 
 Executando o comando para adicionar a dependência automaticamente
 
-```php composer.phar require goisneto/MySQLUtil```
+```php composer.phar require goisneto/mysqlutil```
 
 
 Configuração
